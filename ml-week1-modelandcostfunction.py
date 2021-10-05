@@ -46,9 +46,12 @@ COST FUNCTION
 COST FUNCTION INTUITION
 	
 	We have hypothesis h(x), parameters theta_0 & theta_1, cost function J(theta_0, theta_1) , and goal minimize J(thetas).
+	--> IMPORTANT THAT cost function is convex so there's a global minimum
+		nice property that local and global minimum 
+
 
 	Given the cost plot (contour plot, in the case of two-dim function) for any point you select, the farther away you get from the minimum, the more expensive the cost of that line of fit becomes.
-	
+
 
 """
 
