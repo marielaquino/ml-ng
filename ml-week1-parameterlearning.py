@@ -82,11 +82,10 @@ GRADIENT DESCENT FOR LINEAR REG
 
 
 
+NOTE TO SELF -> if some theta_1, theta_0 is found such that J(theta_0, theta_1) = 0, which of the following must be true? 
 
-
-
-
-
+--> thetas are parameters for hypothesis funciton. if we find thetas that get cost func to evaluate to 0, then that means 0 cost for all the point in training set. 
+"""
 
 
 
