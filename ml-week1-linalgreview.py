@@ -34,3 +34,7 @@ v = [1; 1; 1]
 
 # Multiply A * v
 Av = A * v
+ 
+ """ 
+
+ MATRIX MULTIPLICATION * SPECIAL PROPERTIES 
