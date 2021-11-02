@@ -39,4 +39,18 @@ Av = A * v
 
  MATRIX MULTIPLICATION * SPECIAL PROPERTIES 
 
+ Commutative
+ Associative
+ Identity Matrices
+
+
+ INVERSE AND TRANSPOSE
+
+
+ Inverse -> 3 * (3^-1) = 1 
+ Not everything has an inverse. number 0 for example 
+
+ With matrices -> For some matrix A, A * (A^-1) = I 
+
+ Transpose -> Bij = Aji 
  
